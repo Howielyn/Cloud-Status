@@ -4,6 +4,9 @@ repo: Cloud-Status
 sites:
   - name: Catbox Litterbox
     url: https://litterbox.catbox.moe
+
+  - name: Google Drive
+    url: https://drive.google.com
 status-website:
   theme: light
   css: "nav { display: none }"
