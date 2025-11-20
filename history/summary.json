@@ -10,13 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1543,
-    "timeDay": 240,
-    "timeWeek": 3076,
-    "timeMonth": 1543,
-    "timeYear": 1543,
+    "time": 1499,
+    "timeDay": 360,
+    "timeWeek": 2751,
+    "timeMonth": 1499,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-11-12": 22
     }
+  },
+  {
+    "name": "Google Drive",
+    "url": "https://drive.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/drive.google.com.ico",
+    "slug": "google-drive",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 433,
+    "timeDay": 433,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
+    "dailyMinutesDown": {}
   }
 ]
