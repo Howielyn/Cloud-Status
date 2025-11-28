@@ -2,6 +2,8 @@ owner: Howielyn
 repo: Cloud-Status
 
 sites:
+  - name: Catbox
+    url: https://catbox.moe
   - name: Catbox Litterbox
     url: https://litterbox.catbox.moe
   - name: Google Drive
