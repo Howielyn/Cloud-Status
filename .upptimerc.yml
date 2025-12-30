@@ -7,7 +7,7 @@ sites:
   - name: Catbox Litterbox
     url: https://litterbox.catbox.moe
   - name: Google Drive
-    url: https://drive.google.com/drive/u/0/mobile/my-drive
+    url: https://drive.google.com/drive/my-drive
   - name: Pcloud
     url: https://my.pcloud.com/#/filemanager
 status-website:
