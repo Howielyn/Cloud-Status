@@ -11,7 +11,7 @@ sites:
   - name: Pcloud
     url: https://my.pcloud.com/#/filemanager
 status-website:
-  theme: light
+  theme: dark
   css: "nav { display: none }"
   favicon: 
   faviconSvg: 
