@@ -6,6 +6,8 @@ sites:
     url: https://catbox.moe
   - name: Catbox Litterbox
     url: https://litterbox.catbox.moe
+  - name: Filebin
+    url: https://filebin.net
   - name: Google Drive
     url: https://drive.google.com/drive/my-drive
   - name: Pcloud
