@@ -4,16 +4,16 @@
     "url": "https://catbox.moe",
     "icon": "https://icons.duckduckgo.com/ip3/catbox.moe.ico",
     "slug": "catbox",
-    "status": "down",
-    "uptime": "97.56%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "97.56%",
+    "status": "up",
+    "uptime": "97.53%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "97.53%",
     "time": 570,
-    "timeDay": 428,
-    "timeWeek": 374,
-    "timeMonth": 415,
+    "timeDay": 441,
+    "timeWeek": 384,
+    "timeMonth": 416,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2025-12-06": 81,
@@ -70,7 +70,7 @@
       "2026-05-13": 448,
       "2026-05-12": 70,
       "2026-05-23": 125,
-      "2026-05-31": 0
+      "2026-05-31": 74
     }
   },
   {
