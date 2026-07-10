@@ -4,9 +4,9 @@
     "url": "https://catbox.moe",
     "icon": "https://icons.duckduckgo.com/ip3/catbox.moe.ico",
     "slug": "catbox",
-    "status": "up",
+    "status": "down",
     "uptime": "97.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "97.69%",
@@ -77,7 +77,8 @@
       "2026-06-15": 321,
       "2026-06-28": 59,
       "2026-07-03": 69,
-      "2026-07-05": 65
+      "2026-07-05": 65,
+      "2026-07-10": 0
     }
   },
   {
