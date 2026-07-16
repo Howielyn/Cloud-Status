@@ -4,11 +4,11 @@
     "url": "https://catbox.moe",
     "icon": "https://icons.duckduckgo.com/ip3/catbox.moe.ico",
     "slug": "catbox",
-    "status": "up",
+    "status": "down",
     "uptime": "97.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "97.67%",
     "time": 533,
     "timeDay": 261,
@@ -79,7 +79,8 @@
       "2026-07-03": 69,
       "2026-07-05": 65,
       "2026-07-10": 207,
-      "2026-07-14": 66
+      "2026-07-14": 66,
+      "2026-07-16": 5
     }
   },
   {
@@ -87,9 +88,9 @@
     "url": "https://litterbox.catbox.moe",
     "icon": "https://icons.duckduckgo.com/ip3/litterbox.catbox.moe.ico",
     "slug": "catbox-litterbox",
-    "status": "up",
+    "status": "down",
     "uptime": "96.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "96.97%",
@@ -167,7 +168,8 @@
       "2026-06-15": 316,
       "2026-06-28": 55,
       "2026-07-03": 64,
-      "2026-07-05": 146
+      "2026-07-05": 146,
+      "2026-07-16": 0
     }
   },
   {
