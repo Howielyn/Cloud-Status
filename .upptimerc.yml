@@ -12,6 +12,8 @@ sites:
     url: https://drive.google.com/drive/my-drive
   - name: Pcloud
     url: https://my.pcloud.com/#/filemanager
+  - name: Drime
+    url: https://app.drime.cloud/drive
 status-website:
   theme: dark
   css: "nav { display: none }"
