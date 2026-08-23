@@ -241,19 +241,19 @@
     "url": "https://app.drime.cloud/drive",
     "icon": "https://icons.duckduckgo.com/ip3/app.drime.cloud.ico",
     "slug": "drime",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1851,
-    "timeDay": 4282,
-    "timeWeek": 2122,
-    "timeMonth": 1851,
-    "timeYear": 1851,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1901,
+    "timeDay": 3786,
+    "timeWeek": 2197,
+    "timeMonth": 1901,
+    "timeYear": 1901,
     "dailyMinutesDown": {
-      "2026-08-23": 0
+      "2026-08-23": 42
     }
   }
 ]
