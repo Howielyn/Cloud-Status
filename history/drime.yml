@@ -1,7 +1,7 @@
 url: https://app.drime.cloud/drive
-status: down
-code: 502
-responseTime: 109
-lastUpdated: 2026-08-24T22:06:05.133Z
+status: up
+code: 200
+responseTime: 979
+lastUpdated: 2026-08-24T22:29:58.841Z
 startTime: 2026-08-07T02:21:10.608Z
 generator: Upptime <https://github.com/upptime/upptime>
