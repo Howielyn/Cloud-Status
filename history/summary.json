@@ -262,23 +262,24 @@
     "url": "https://app.drime.cloud/drive",
     "icon": "https://icons.duckduckgo.com/ip3/app.drime.cloud.ico",
     "slug": "drime",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "99.53%",
-    "time": 1210,
-    "timeDay": 538,
-    "timeWeek": 681,
-    "timeMonth": 720,
-    "timeYear": 1210,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "99.37%",
+    "time": 1212,
+    "timeDay": 812,
+    "timeWeek": 742,
+    "timeMonth": 737,
+    "timeYear": 1212,
     "dailyMinutesDown": {
       "2026-08-23": 62,
       "2026-08-24": 24,
       "2026-10-17": 265,
       "2026-10-21": 191,
-      "2026-10-26": 0
+      "2026-10-27": 48,
+      "2026-10-26": 138
     }
   }
 ]
