@@ -14,6 +14,8 @@ sites:
     url: https://my.pcloud.com/#/filemanager
   - name: Drime
     url: https://app.drime.cloud/drive
+  - name: Proton Drive
+    url: https://drive.proton.me/
 status-website:
   theme: dark
   css: "nav { display: none }"
